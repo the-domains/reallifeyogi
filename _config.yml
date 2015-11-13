@@ -1,0 +1,23 @@
+name: RealLifeYogi
+favicon: null
+layout_spectrum: 0.04060349822975695
+typography_spectrum: 0.6760174774099141
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.40800351556390524
+  lightness: 0.8518784048501402
+  saturation: 0.5659237401559949
+  rhythmicContrast: 0.40802005492150784
+purpose: []

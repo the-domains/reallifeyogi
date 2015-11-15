@@ -4,7 +4,7 @@
         <description><![CDATA[RealLifeYogi]]></description>
         <link>https://thegrid.ai/reallifeyogi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 Nov 2015 06:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2015 08:41:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reallifeyogi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is Real Life Yogi?]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/reallifeyogi/what-is-real-life-yogi/index.html</link>
             <guid isPermaLink="false">44b7f8c1-1dfd-4615-af18-52b54494cb7c</guid>
             <pubDate>Sun, 15 Nov 2015 06:08:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>Professional History and Expertise that Misako Lauritzen provides</p></article>]]></description>
+            <link>https://thegrid.ai/reallifeyogi/about-me/index.html</link>
+            <guid isPermaLink="false">4656ebc9-584f-4ee0-bdfc-0f015d9b2da7</guid>
+            <pubDate>Sun, 15 Nov 2015 08:41:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

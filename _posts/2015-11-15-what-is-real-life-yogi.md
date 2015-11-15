@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Our Purpose
-datePublished: '2015-11-15T06:07:37.555Z'
-dateModified: '2015-11-13T07:46:32.710Z'
+datePublished: '2015-11-15T06:07:53.142Z'
+dateModified: '2015-11-15T06:07:37.555Z'
 title: What is Real Life Yogi?
 authors: []
 publisher:

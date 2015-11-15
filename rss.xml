@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RealLifeYogi]]></title>
+        <description><![CDATA[RealLifeYogi]]></description>
+        <link>https://thegrid.ai/reallifeyogi/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 Nov 2015 06:08:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reallifeyogi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is Real Life Yogi?]]></title>
+            <description><![CDATA[<article><h1>What is Real Life Yogi?</h1><p>Our Purpose</p></article>]]></description>
+            <link>https://thegrid.ai/reallifeyogi/what-is-real-life-yogi/index.html</link>
+            <guid isPermaLink="false">44b7f8c1-1dfd-4615-af18-52b54494cb7c</guid>
+            <pubDate>Sun, 15 Nov 2015 06:07:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/reallifeyogi/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">1640582e-944c-4cf9-b1ac-fa1bc98a7259</guid>
+            <pubDate>Sun, 15 Nov 2015 06:07:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

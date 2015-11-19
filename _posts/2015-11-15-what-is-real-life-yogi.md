@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Our Purpose
-datePublished: '2015-11-19T07:31:45.946Z'
-dateModified: '2015-11-19T07:30:36.206Z'
+datePublished: '2015-11-19T07:49:07.372Z'
+dateModified: '2015-11-19T07:48:08.128Z'
 title: What is Real Life Yogi?
 sourcePath: _posts/2015-11-15-what-is-real-life-yogi.md
 published: true
@@ -21,7 +21,7 @@ url: what-is-real-life-yogi/index.html
 _type: Article
 
 ---
-What is Real Life Yogi?
+# What is Real Life Yogi?
 
 Yoga is "jugit" in Sanskrit, which means "to unite." Therefore, the purpose of yoga is to unite polarities (good and bad, light and darkness, joy and sadness, and etc...) and achieve balance. 
 

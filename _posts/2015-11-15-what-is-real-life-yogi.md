@@ -6,17 +6,17 @@ inLanguage: null
 starred: true
 keywords: []
 description: Our Purpose
-datePublished: '2015-11-15T06:08:33.801Z'
-dateModified: '2015-11-15T06:08:28.183Z'
+datePublished: '2015-11-19T07:31:45.946Z'
+dateModified: '2015-11-19T07:30:36.206Z'
 title: What is Real Life Yogi?
+sourcePath: _posts/2015-11-15-what-is-real-life-yogi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-15-what-is-real-life-yogi.md
-published: true
 url: what-is-real-life-yogi/index.html
 _type: Article
 
@@ -38,4 +38,4 @@ The core message of Kundalini Yoga (to me) is "Truth is within you." We live in 
 Kundalini yoga is an art of living life with the joy and rigor of a newborn, while having an access to our wisdom at the same time.
 Real Life Yogi is for people like you and I who achieve balance and fulfillment with all the richness and messiness that the life brings. We will not do yoga in order to escape. Rather we engage in the eternal dialogue of yoga in order to live to the fullest by being ourselves right here, right now. 
 
-Through live workshops, virtual classes, private coaching, and initiating conversations, we aim to do our part in creating a more resilient and compassionate world.
+Through live workshops, virtual classes, private coaching, and initiating conversations, we aim to do our part in creating a more resilient and compassionate world. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fab9bafc-caa4-48ba-9218-269d414aea1d.jpg)
